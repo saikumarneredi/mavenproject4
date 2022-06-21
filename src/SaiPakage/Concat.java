@@ -10,7 +10,9 @@ public class Concat {
 		s1.concat("sai") ;
 		s1=s1.concat("Neredi");
 		System.out.println(s1);
-		   
+		
+		System.out.println(s1);
+		
 	}
 
 	}
