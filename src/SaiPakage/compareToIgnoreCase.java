@@ -7,10 +7,12 @@ public class compareToIgnoreCase {
 		String name3="saikumar";
 		String name4="neredi"
 		String name6=	"learning"
+		String name5 = "java";
 		System.out.println(name.compareToIgnoreCase(name2));
 		System.out.println(name2.compareToIgnoreCase (name3));
-		System.out.println(name3.compareToIgnoreCase (name4));
-	
+		System.out.println(name3.compareToIgnoreCase (name5);
+	System.out.println();
+		
 	}
 
 }
