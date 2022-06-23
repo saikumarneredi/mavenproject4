@@ -6,5 +6,6 @@ public class JavaToLowerCase {
 		String name="SAIKUMARNEREDI";
 		String lower=name.toLowerCase();
 			System.out.println(lower);
+			System.out.println("This is from gitHUb");
 	}
 }
