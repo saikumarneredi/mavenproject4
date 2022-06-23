@@ -8,7 +8,7 @@ public class compareToIgnoreCase {
 		String name4="neredi";
 		System.out.println(name.compareToIgnoreCase(name2));
 		System.out.println(name2.compareToIgnoreCase (name3));
-		System.out.println(name3.compareToIgnoreCase (name4));
+		System.out.println(name3.compareToIgnoreCase (name2));
 	
 	}
 
