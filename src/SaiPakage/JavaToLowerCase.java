@@ -7,5 +7,6 @@ public class JavaToLowerCase {
 		String lower=name.toLowerCase();
 			System.out.println(lower);
 			System.out.println("This is from gitHUb");
+			System.out.println(Uppercase);
 	}
 }
