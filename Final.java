@@ -6,5 +6,12 @@ public class Final {
 int a = 10;
 		
 	}
+	int x = 15;
+	int y = 18;
+	int d = 22;
+	
+	
+	
+	
 
 }
