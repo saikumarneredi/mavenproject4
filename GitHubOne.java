@@ -12,7 +12,8 @@ return totalAmount;
 GitHubOne GHO = new GitHubOne ();
 int totalAmount =  GHO.totalAmount (13,17);
 System.out.println("the result:"+totalAmount);
-
+int z = 10;
+		
 		
 	}	
 	}
